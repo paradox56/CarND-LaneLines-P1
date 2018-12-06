@@ -15,8 +15,8 @@ This is my first Udacity project of finding lane lines
 * Pillow 5.3.0
 
 ## **Files Description**
-**P1.ipynb** is a jupyter notebook that contains all the codes to perform lane lines detection.
-**test_images** is a directory that contains unprocessed testing images.
-**test_images_output** is a directory that contains processed images. The processes include grayscale, gaussian blur, canny edge detection and final result.
-**test_videos** is a directory that contains testing videos.
-**test_videos_output** is a directory that contains processed videos that contains detected lane lines
+**P1.ipynb** is a jupyter notebook that contains all the codes to perform lane lines detection.<br/>
+**test_images** is a directory that contains unprocessed testing images.<br/>
+**test_images_output** is a directory that contains processed images. The processes include grayscale, gaussian blur, canny edge detection and final result.<br/>
+**test_videos** is a directory that contains testing videos.<br/>
+**test_videos_output** is a directory that contains processed videos that contains detected lane lines<br/>
